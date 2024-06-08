@@ -91,5 +91,7 @@
 			"path": "./node_modules/cz-conventional-changelog"
 		}
 	},
-	"homepage": "./"
+	"homepage": "http://./",
+	"description": "## Шаг первый. Изучаем имеющиеся компоненты!",
+	"author": ""
 }
